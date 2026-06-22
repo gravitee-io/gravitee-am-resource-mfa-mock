@@ -1,3 +1,22 @@
+# [2.0.0](https://github.com/gravitee-io/gravitee-am-resource-mfa-mock/compare/1.0.0...2.0.0) (2026-06-22)
+
+
+### Bug Fixes
+
+* bump dependencies version to avoid alpha as much as possible ([ed1fa88](https://github.com/gravitee-io/gravitee-am-resource-mfa-mock/commit/ed1fa882279644556616e5718b335dce6516bb95))
+* set correct orb version ([a1cafa0](https://github.com/gravitee-io/gravitee-am-resource-mfa-mock/commit/a1cafa01750f6fc337cf62267085b7eca19f5e69))
+
+
+### Features
+
+* bumped AM version to 4.12.0-alpha.1 ([7ffec7f](https://github.com/gravitee-io/gravitee-am-resource-mfa-mock/commit/7ffec7fcb889da2ac07b235be98343af326a7ac2))
+* upgrade to Vertx5 ([9a14112](https://github.com/gravitee-io/gravitee-am-resource-mfa-mock/commit/9a141120e443934e038bc9bbe853208b8f4d24ce))
+
+
+### BREAKING CHANGES
+
+* Vertx5 and Java 25 support
+
 # [2.0.0-alpha.1](https://github.com/gravitee-io/gravitee-am-resource-mfa-mock/compare/1.0.0...2.0.0-alpha.1) (2026-03-31)
 
 
